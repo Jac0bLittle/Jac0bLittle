@@ -36,12 +36,3 @@ Beyond my professional role, I am deeply involved in the engineering community a
 *   **IEEE Leadership**: Currently serving as Vice Chair (formerly Chair) of the UTC IEEE Student Branch, driving community engagement and technical programming.
 *   **Dean Student Advisory Council**: Committed to honest, in-depth conversations that help both the college and student organizations with community events.
 *   **Research & Publication**: Actively developing my 2027 Interdisciplinary Capstone on renewable integration/power quality analysis, targeting publication for IEEE SoutheastCon 2027.
-
----
-
-## Connect 
-I am always open to discussing grid modernization, power systems research, or potential research collaborations.
-
-*   **LinkedIn**: [linkedin.com/in/Jac0bLittle](https://www.linkedin.com/in/Jac0bLittle)
-*   **Contact**: [Little@IEEE.org](mailto:Little@IEEE.org)
-<!-- *   **Digital Portfolio**: [https://jacoblittle.dev](https://jacoblittle.dev) -->
