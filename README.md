@@ -42,6 +42,6 @@ Beyond my professional role, I am deeply involved in the engineering community a
 ## Connect 
 I am always open to discussing grid modernization, power systems research, or potential research collaborations.
 
-*   **LinkedIn**: [linkedin.com/in/Jac0bLitt1e](https://www.linkedin.com/in/Jac0bLitt1e)
+*   **LinkedIn**: [linkedin.com/in/Jac0bLittle](https://www.linkedin.com/in/Jac0bLittle)
 *   **Contact**: [Little@IEEE.org](mailto:Little@IEEE.org)
 <!-- *   **Digital Portfolio**: [https://jacoblittle.dev](https://jacoblittle.dev) -->
