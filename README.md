@@ -1,16 +1,16 @@
-# JACOB LITTLE
-### Power Systems & SCADA Engineer | Grid Modernization Researcher
+# Jacob Little
+### Power Systems & SCADA Engineer <!-- | Grid Modernization Researcher -->
 
 ---
 
-## [ ABOUT ME ]
+## About Me
 I am an Electrical Engineering student at UTC, currently serving as a **SCADA/EMS Intern at the Tennessee Valley Authority (TVA)**[span_0](start_span)[span_0](end_span). My work sits at the intersection of critical infrastructure operations and data-driven grid management, supporting the real-time reliability of large-scale power transmission systems[span_1](start_span)[span_1](end_span).
 
 I am currently focusing my academic and professional efforts on the transition to smart grids and renewable energy integration, with the goal of transitioning into a funded European Master’s program in Fall 2027[span_2](start_span)[span_2](end_span).
 
 ---
 
-## [ PROFESSIONAL EXPERTISE ]
+## Professional Experience
 My career is anchored in hands-on control room experience, where I bridge the gap between legacy electrical infrastructure and modern digital EMS environments[span_3](start_span)[span_3](end_span).
 
 *   **SCADA Operations**: Supporting a dual-system migration between **Siemens Telegyr** and **GE Vernova** platforms, ensuring telemetry parity and grid situational awareness[span_4](start_span)[span_4](end_span).
@@ -19,7 +19,7 @@ My career is anchored in hands-on control room experience, where I bridge the ga
 
 ---
 
-## [ IEEE LEADERSHIP & ACADEMIC IMPACT ]
+## Academic Excellence
 Beyond my professional role, I am deeply involved in the engineering community and experiential learning[span_7](start_span)[span_7](end_span).
 
 *   **IEEE Leadership**: Currently serving as Vice Chair (formerly Chair) of the UTC IEEE Student Branch, driving community engagement and technical programming[span_8](start_span)[span_8](end_span).
