@@ -34,7 +34,7 @@ My career is anchored in hands-on control room experience, where I bridge the ga
 Beyond my professional role, I am deeply involved in the engineering community and experiential learning.
 
 *   **IEEE Leadership**: Currently serving as Vice Chair (formerly Chair) of the UTC IEEE Student Branch, driving community engagement and technical programming.
-*   **ThinkAchieve Graduate**: Committed to deep, experiential learning projects that demonstrate technical competency and project leadership.
+*   **Dean Student Advisory Council**: Committed to honest, in-depth conversations that help both the college and student organizations with community events.
 *   **Research & Publication**: Actively developing my 2027 Interdisciplinary Capstone on renewable integration/power quality analysis, targeting publication for IEEE SoutheastCon 2027.
 
 ---
