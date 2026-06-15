@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.deno.dev/:ChijiokeOkorji:/count.svg" alt="Key:: Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/:Jac0bLittle:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
 # **Jacob Little**
