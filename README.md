@@ -1,3 +1,8 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.deno.dev/:ChijiokeOkorji:/count.svg" alt="Key:: Visitor's Count" />
+</div>
+
 # **Jacob Little**
 ### Power Systems & SCADA Engineer 
 <!-- | Grid Modernization Researcher -->
